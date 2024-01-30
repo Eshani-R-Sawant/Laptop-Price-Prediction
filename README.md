@@ -59,6 +59,7 @@ sold and produced.
 We splitted the dataset into train and test dataset and applied our decision tree
 regression model on our dataset.
 5)Result
+
 ![image](https://github.com/Eshani-R-Sawant/Laptop-Price-Prediction/assets/78209696/b57bf75a-55d0-451e-bd2b-cfefe9f51d46)
 
 ● We have plotted a scatter plot to visualize the prediction and this gives us a great result.
